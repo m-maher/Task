@@ -1,0 +1,27 @@
+﻿.navbar {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  padding: 15px 0;
+
+  .navbar-brand {
+    background-color: #e0e5eb;
+    border: 1px solid #e0e5eb;
+    border-radius: 2px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #171616;
+    padding: 15px 80px;
+  }
+
+  .navbar-collapse {
+    .navbar-nav {
+      .nav-item {
+        .nav-link {
+          color: #171616;
+          font-size: 14px;
+          font-weight: 600;
+        }
+      }
+    }
+  }
+}
